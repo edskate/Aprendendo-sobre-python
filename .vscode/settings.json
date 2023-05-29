@@ -1,0 +1,12 @@
+{
+  "python.testing.unittestArgs": [
+    "-v",
+    "-s",
+    "./Python_Data_Science",
+    "-p",
+    "*test.py"
+  ],
+  "python.testing.pytestEnabled": true,
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestArgs": ["Python_Data_Science"]
+}
