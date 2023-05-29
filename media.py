@@ -4,6 +4,7 @@ def calcular_media(numeros):
     media = total / quantidade
     return media
 
-lista = [2, 4, 6, 8, 10]
+lista = [2, 4, 7, 8, 10]
 media = calcular_media(lista)
 print(media)
+
